@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		02A43A9822738CF100FEC494 /* Backup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A43A9722738CF100FEC494 /* Backup.swift */; };
+		02A43A9922738CF100FEC494 /* Backup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A43A9722738CF100FEC494 /* Backup.swift */; };
+		02A43A9A22738CF100FEC494 /* Backup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A43A9722738CF100FEC494 /* Backup.swift */; };
+		02A43A9B22738CF100FEC494 /* Backup.swift in Sources */ = {isa = PBXBuildFile; fileRef = 02A43A9722738CF100FEC494 /* Backup.swift */; };
 		03A65E641C6BB0F60062603F /* SQLite.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 03A65E5A1C6BB0F50062603F /* SQLite.framework */; };
 		03A65E721C6BB2D30062603F /* SQLite.h in Headers */ = {isa = PBXBuildFile; fileRef = EE247AD61C3F04ED00AE3E12 /* SQLite.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		03A65E731C6BB2D80062603F /* Foundation.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE247AF71C3F06E900AE3E12 /* Foundation.swift */; };
@@ -214,6 +218,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		02A43A9722738CF100FEC494 /* Backup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Backup.swift; sourceTree = "<group>"; };
 		03A65E5A1C6BB0F50062603F /* SQLite.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = SQLite.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		03A65E631C6BB0F60062603F /* SQLiteTests tvOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "SQLiteTests tvOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		03A65E961C6BB3210062603F /* libsqlite3.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libsqlite3.tbd; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS.sdk/usr/lib/libsqlite3.tbd; sourceTree = DEVELOPER_DIR; };
